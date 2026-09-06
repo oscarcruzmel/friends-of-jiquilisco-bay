@@ -1,0 +1,1 @@
+Real-photo website source prepared for Vercel. Hero/banner should remain unchanged when connecting this repository; story and impact sections use authentic Friends of Jiquilisco Bay photos.
