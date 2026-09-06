@@ -1,0 +1,1 @@
+Image files are served from the repository and should use authentic organization photos. Production should not use AI-generated replacements.
